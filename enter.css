@@ -1,0 +1,36 @@
+body {
+    background-image: url(./images/fake_brick.png);
+    background-repeat: repeat;
+}
+
+#top {
+    color: WHITE;
+    font-size: 50px;
+    font-family: Futura;
+    text-align: center;
+    padding: 70px;
+}
+
+#information {
+    color: WHITE;
+    text-align: center;
+    font-family: Futura;
+    margin: 30px;
+}
+
+#information table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tracklist {
+    color: WHITE;
+    text-align: center;
+    font-family: Futura;
+    margin: 30px;
+}
+
+#tracklist table {
+    margin-left: auto;
+    margin-right: auto;
+}
