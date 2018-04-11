@@ -1,21 +1,27 @@
 body {
     background-image: url(./images/fake_brick.png);
     background-repeat: repeat;
+    font-family: Futura;
 }
 
 #top {
     color: WHITE;
-    font-size: 50px;
-    font-family: Futura;
-    text-align: center;
     padding: 70px;
+    text-align: center;
+}
+
+.title {
+    font-size: 80px;
 }
 
 #information {
     color: WHITE;
     text-align: center;
-    font-family: Futura;
     margin: 30px;
+}
+
+H1 {
+    color: WHITE;
 }
 
 #information table {
@@ -26,11 +32,19 @@ body {
 #tracklist {
     color: WHITE;
     text-align: center;
-    font-family: Futura;
     margin: 30px;
 }
 
 #tracklist table {
     margin-left: auto;
     margin-right: auto;
+}
+
+.box {
+    display: inline-block;
+    padding: 5px 30px 30px 5px;
+}
+
+.box img {
+    background-color: WHITE;
 }
