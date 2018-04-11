@@ -48,3 +48,8 @@ H1 {
 .box img {
     background-color: WHITE;
 }
+
+#credit {
+    text-align: center;
+    color: WHITE;
+}
