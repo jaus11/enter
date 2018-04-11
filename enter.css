@@ -11,13 +11,15 @@ body {
 }
 
 .title {
-    font-size: 80px;
+    /* font-size: 80px; */
+    font-size: 100px;
 }
 
 #information {
     color: WHITE;
     text-align: center;
     margin: 30px;
+    font-size: 20px;
 }
 
 H1 {
@@ -42,7 +44,7 @@ H1 {
 
 .box {
     display: inline-block;
-    padding: 5px 30px 30px 5px;
+    padding: 5px 5px 5px 5px;
 }
 
 .box img {
